@@ -16,6 +16,17 @@
           "repo": "nft-maker-one/image-toolkit"
         },
         "homepage": "https://github.com/nft-maker-one/image-toolkit"
+      },
+      {
+        "name": "image-toolkit1",
+        "description": "Image processing — crop, rotate, and grayscale conversion",
+        "author": { "name": "hurricaneweb3" },
+        "category": "development",
+        "source": {
+          "source": "github",
+          "repo": "nft-maker-one/image-toolkit1"
+        },
+        "homepage": "https://github.com/nft-maker-one/image-toolkit1"
       }
     ]
   }
