@@ -17,6 +17,7 @@
         },
         "homepage": "https://github.com/nft-maker-one/image-toolkit"
       },
+      
       {
         "name": "image-toolkit-new",
         "description": "Image processing — crop, rotate, and grayscale conversion",
