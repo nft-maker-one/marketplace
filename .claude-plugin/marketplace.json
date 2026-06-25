@@ -1,0 +1,21 @@
+{
+    "name": "hurricaneweb3",
+    "description": "My personal plugin marketplace",
+    "owner": {
+      "name": "hurricaneweb3",
+      "email": "wjluo57@gmail.com"
+    },
+    "plugins": [
+      {
+        "name": "image-toolkit",
+        "description": "Image processing — crop, rotate, and grayscale conversion",
+        "author": { "name": "hurricaneweb3" },
+        "category": "development",
+        "source": {
+          "source": "github",
+          "repo": "nft-maker-one/image-toolkit"
+        },
+        "homepage": "https://github.com/nft-maker-one/image-toolkit"
+      }
+    ]
+  }
